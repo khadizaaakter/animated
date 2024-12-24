@@ -640,6 +640,18 @@ video {
   width: 4rem;
 }
 
+.w-7 {
+  width: 1.75rem;
+}
+
+.w-4 {
+  width: 1rem;
+}
+
+.w-6 {
+  width: 1.5rem;
+}
+
 .transform {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
